@@ -1,4 +1,4 @@
-from gra3m3/ol8slim
+from gra3m3/ol8slim:${ID}
 #from oraclelinux:8-slim
 
 #below worked with hardcoded oraclelinux:8-slim in this file instead of $IMAGE
